@@ -1,4 +1,4 @@
-# Language Models for Authorship Identification
+# A Language Modelling Approach to Authorship Identification for Online Examinations in Sinhala
 This research project explores the use of Language Models for the purpose identifying the author of a given piece of writing.
 
 The related findings have been published here,
